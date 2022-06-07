@@ -67,6 +67,7 @@ namespace Simple_APP
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
             NavigationService.GoBack();
+            mediaPlayer1.Stop();
         }
     }
 }

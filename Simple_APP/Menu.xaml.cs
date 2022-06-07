@@ -20,34 +20,41 @@ namespace Simple_APP
     /// </summary>
     public partial class Menu : Page
     {
+       
         public Menu()
         {
             InitializeComponent();
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Vinni());
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Matrix());
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Motivation());
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Gold_island());
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
+            NavigationService.Navigate(new Children_music());
+        }
 
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Cavers());
         }
     }
 }

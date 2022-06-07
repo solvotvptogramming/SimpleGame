@@ -25,6 +25,7 @@ namespace Simple_APP
             InitializeComponent();
             NavigationService.Navigate(new Entrance());
             this.ShowsNavigationUI = false;
+           
 
         }
 

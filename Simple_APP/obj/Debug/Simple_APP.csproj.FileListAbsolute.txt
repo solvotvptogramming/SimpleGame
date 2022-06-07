@@ -18,3 +18,17 @@ C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Simple_APP.exe
 C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Simple_APP.pdb
 C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Entrance.g.cs
 C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Entrance.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Vinni.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Vinni.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Matrix.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Matrix.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Motivation.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Motivation.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Gold_island.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Gold_island.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Bass.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Cavers.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Children_music.g.cs
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Bass.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Cavers.baml
+C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\obj\Debug\Children_music.baml

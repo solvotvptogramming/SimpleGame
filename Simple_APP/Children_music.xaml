@@ -5,16 +5,16 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Simple_APP"
       mc:Ignorable="d" 
-      d:DesignHeight="650" d:DesignWidth="800"
+      d:DesignHeight="650" d:DesignWidth="800" Background="Gainsboro"
       Title="Children_music">
     <StackPanel>
-        <Button Click="Button_Click" Content="Антошка" FontSize="40" Height="60" Margin="10"></Button>
-        <Button Click="Button_Click_1" Content="Кабы не было зимы" FontSize="40" Height="60" Margin="10"></Button>
-        <Button Click="Button_Click_2" Content="Баю баюшки баю" FontSize="40" Height="60" Margin="10"></Button>
-        <Button Click="Button_Click_3" Content="Изумрудный город" FontSize="40" Height="60" Margin="10"></Button>
-        <Button Click="Button_Click_4" Content="Голубой вагон" Height="60" FontSize="40" Margin="10"></Button>
-        <Button Click="Button_Click_5" Content="Стоп" FontSize="30" Height="80" Width="80" Margin="10"></Button>
-        <Button Click="Button_Click_6" VerticalAlignment="Stretch" HorizontalAlignment="Left" Content="←" FontSize="30" Height="80" Width="80" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click" Content="Антошка" FontSize="40" Height="60" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_1" Content="Кабы не было зимы" FontSize="40" Height="60" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_2" Content="Баю баюшки баю" FontSize="40" Height="60" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_3" Content="Изумрудный город" FontSize="40" Height="60" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_4" Content="Голубой вагон" Height="60" FontSize="40" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_5" Content="Стоп" FontSize="30" Height="80" Width="80" Margin="10"></Button>
+        <Button FontWeight="Bold" Background="Beige" Click="Button_Click_6" VerticalAlignment="Stretch" HorizontalAlignment="Left" Content="←" FontSize="60" Height="80" Width="80" Margin="10"></Button>
 
     </StackPanel>
 

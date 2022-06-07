@@ -54,6 +54,11 @@ namespace Simple_APP
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
+            NavigationService.Navigate(new Bass());
+        }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
             NavigationService.Navigate(new Cavers());
         }
     }

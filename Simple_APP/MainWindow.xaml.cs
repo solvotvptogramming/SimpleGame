@@ -20,11 +20,18 @@ namespace Simple_APP
     /// </summary>
     public partial class MainWindow : NavigationWindow
     {
+        private MediaPlayer media1;
+        private MediaPlayer mediaPlayer1;
         public MainWindow()
         {
-            InitializeComponent();
+        InitializeComponent();
+            media1 = new MediaPlayer();
+            mediaPlayer1 = new MediaPlayer();
+            mediaPlayer1.Open(new Uri(@"C:\Users\One\Desktop\Simple_APP\Simple_APP\Simple_APP\bin\Debug\prj_13094802_f3df5d25a360741e8837743f23d3b9a9_1654606128.mp3", UriKind.Absolute));
+            mediaPlayer1.Play();
             NavigationService.Navigate(new Entrance());
-            this.ShowsNavigationUI = false;
+        this.ShowsNavigationUI = false;
+
            
 
         }
